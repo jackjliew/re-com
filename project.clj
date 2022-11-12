@@ -4,7 +4,7 @@
 
 ;; ---------------------------------------------------------------------------------------
 
-(defproject         re-com "lein-git-inject/version"
+(defproject         org.clojars.jackjliew/re-com "lein-git-inject/version"
   :description      "Reusable UI components for Reagent"
   :url              "https://github.com/day8/re-com.git"
   :license          {:name "MIT"}
